@@ -1,0 +1,118 @@
+.navbar ul{
+    list-style-type: none;
+    overflow: hidden;
+    padding: 0%;
+    margin: 0%;
+}
+.navbar a{
+text-decoration: none;
+padding: 15px;
+display: block;
+text-align: center;
+background-color: antiquewhite;
+}
+.navbar li{
+float: left;
+}
+title{
+    text-decoration: none;
+}
+.navbar a{
+    float: left;
+    padding: 20px
+    ;
+}
+h1{
+font-size: 3.5rem;
+}
+img{
+    height:100%;
+    max-width: 400px;
+}
+.navbar{
+    padding: 15px;
+}
+#heading{
+    z-index: 2;
+    position: absolute;
+    margin-bottom: 20px;
+    left: 60px;
+    color: white;
+    font-size: xx-large;
+    bottom: 50px;
+    top: 40%;
+
+
+}
+#paragraph{
+ z-index: 2;
+ position: absolute;
+ bottom: 30%;
+ font-size: xx-large;
+ color:white;
+ font-weight: bolder;
+}
+ 
+ #myimage{
+    z-index: 1;
+    height: 400px;
+    max-width: 10000px;
+    font-size: xx-large;
+
+ }
+ h2{
+    text-align: left;
+ }
+ a{
+    text-align: center;
+ }
+ #Learn{
+   
+    z-index: 2;
+    position: absolute;
+    bottom: 20%;
+    left: 50px;
+    color: white;
+    font-weight: bolder;
+    font-size: xx-large;
+ }
+ #contact{
+     z-index: 2;
+    position: absolute;
+    bottom: 20%;
+    right: 700px;
+    color: white;
+    font-weight: bolder;
+    font-size: xx-large;
+ }
+ img{
+    width: 100%;
+    max-width: 500px;
+    object-fit: cover;
+    vertical-align: middle;
+ }
+ .wrapper{
+    padding: 0 15px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: left;
+    justify-content: space-around;
+    gap: 5rem;
+
+ }
+ #p2{
+    text-align: right;
+    align-self: start;
+ }
+ . intro{
+flex: 1;
+ }
+ #journey{
+    font-size: xx-large;
+    background-color: chartreuse;
+    text-align: left;
+ }
+ p{
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
