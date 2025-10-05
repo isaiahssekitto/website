@@ -1,0 +1,348 @@
+.navbar {
+    background-color: whitesmoke;
+    width: 100vw;
+    height: 6vw;
+    margin-bottom: 10px;
+    text-decoration: none;
+}
+
+.top {
+    background-color: white;
+    width: 100vw;
+    height: 50vw;
+    background-image: url(remedies.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 10px;
+}
+
+.picture {
+    float: left;
+    width: 650px;
+    height: 400px;
+}
+
+.picture img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.mission {
+    background-color: whitesmoke;
+    height: 400px;
+    width: 590px;
+    float: right;
+}
+
+.impact {
+    width: 100vw;
+    height: 500px;
+    background-color: wheat;
+    float: left;
+}
+
+.stories {
+    background-color: white;
+    width: 100vw;
+    height: 500px;
+    float: left;
+
+}
+
+.footer {
+    background-color: grey;
+    height: 400px;
+    width: 100vw;
+    float: left;
+
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    margin-left: 100px;
+    font-size: large;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+li {
+    padding: 25px;
+    margin-bottom: 25px;
+    float: right;
+    font-style: inherit;
+    border: 5px;
+    text-decoration: none;
+
+}
+
+.logo {
+    margin-right: 100px;
+    float: left;
+    margin-top: 18px;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: darkgreen;
+    margin-right: 25px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+
+}
+
+h2 {
+    color: azure;
+    font-size: 90px;
+}
+
+p {
+    color: black;
+    font-size: x-large;
+
+}
+
+
+.yrs {
+    font-size: larger;
+    float: left;
+    background-color: whitesmoke;
+    width: 300px;
+    height: 250px;
+    margin-left: 25px;
+    text-align: center;
+    margin: 10px;
+    border-radius: 30px;
+}
+
+.nations {
+    background-color: whitesmoke;
+    height: 250px;
+    width: 300px;
+    float: left;
+    text-align: center;
+    margin: 10px;
+    border-radius: 30px;
+}
+
+.people {
+    background-color: whitesmoke;
+    height: 250px;
+    width: 300px;
+    float: left;
+    text-align: center;
+    margin: 10px;
+    border-radius: 30px;
+    s
+}
+
+.natural {
+    background-color: whitesmoke;
+    height: 250px;
+    width: 300px;
+    float: left;
+    text-align: center;
+    margin: 10px;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.naziwa {
+    background-color: whitesmoke;
+    width: 400px;
+    height: 250px;
+    text-align: center;
+    margin: 5px;
+    float: left;
+    border-radius: 25px;
+
+}
+
+.story {
+    font-size: 25px;
+    color: black;
+}
+
+.gert {
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 300;
+    margin-bottom: 20px;
+}
+
+.mihingo {
+    background-color: whitesmoke;
+    width: 400px;
+    height: 250px;
+    float: left;
+    margin: 5px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+}
+
+.kenya {
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 300;
+    color: black;
+    margin-left: 15px;
+    text-align: center;
+    margin-right: 15px;
+}
+
+.grace {
+    background-color: whitesmoke;
+    width: 400px;
+    height: 250px;
+    float: left;
+    margin: 5px;
+    border-radius: 15px;
+}
+
+.tz {
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 300;
+    color: black;
+    margin-left: 15px;
+    margin-right: 15px;
+    text-align: center;
+
+}
+
+.our {
+    margin-left: 15px;
+}
+
+.ourimpact {
+    text-align: center;
+}
+
+.Africa {
+    text-align: center;
+    font-weight: 400;
+    font-size: 1.25rem;
+}
+
+.story {
+    text-align: center;
+}
+
+.real {
+    text-align: center;
+    font-size: 1.25rem;
+    font-weight: 200;
+}
+
+.dr {
+    width: 300px;
+    height: 350px;
+    background-color: grey;
+    float: left;
+    margin: 5PX;
+    text-align: center;
+    margin-left: 25px;
+}
+
+.quick {
+    width: 300px;
+    height: 350px;
+    background-color: grey;
+    float: left;
+    margin: 5px;
+    text-align: center;
+    margin-left: 25px;
+
+}
+
+.donate {
+    width: 300px;
+    height: 350px;
+    background-color: grey;
+    margin: 5px;
+    float: left;
+    text-align: center;
+}
+
+.us {
+    background-color: grey;
+    width: 300px;
+    height: 350px;
+    margin: 5px;
+    float: left;
+    text-align: center;
+}
+
+.read {
+    margin-left: 520px;
+    border-radius: 45px;
+    cursor: pointer;
+    font-size: 20px;
+    background-color: green;
+    color: azure;
+    margin-top: 35px;
+}
+
+.journey {
+    margin-left: 10px;
+    background-color: green;
+    color: azure;
+    border-radius: 30px;
+    font-size: 20px;
+}
+
+.love {
+    color: green;
+    font-size: xx-large;
+}
+
+.bold {
+    font-weight: bolder;
+}
+
+.small {
+    font-size: large;
+}
+
+.centre {
+    font-size: 20px;
+    margin-left: 15px;
+}
+
+.centrel {
+    font-size: 20px;
+    font-weight: bold;
+    float: left;
+    margin-left: 15px;
+}
+
+.white {
+    color: aliceblue;
+    background-color: grey;
+    font-size: 20px;
+    margin-left: 24px;
+    text-align: left;
+    text-decoration: none;
+
+
+}
+
+.whiter {
+    text-align: left;
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+
+}
+
+.do {
+    color: white;
+    margin-left: 30px;
+    margin-top: 20px;
+    font-style: initial;
+    font-family: sans-serif;
+}
+
+.again {
+    margin-left: 30px;
+ 
+}
